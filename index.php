@@ -26,16 +26,8 @@
                                     <h1 class="rs-banner-title">GLOBAL BEARINGS</h1>
                                     <h1 class="rs-banner-title has-stroke">GLOBAL BEARINGS </h1>
                                 </div>
-                                <div class="rs-banner-btn">
-                                    <div class="rs-rotate-btn">
-                                        <a href="contact.php" class="rs-play-btn popup-video has-transparent-btn"><i
-                                                class="fa-light fa-arrow-right-long"></i></a>
-                                        <div class="rs-circle-title gsap-rotate rs-text-circle-wrapper">
-                                            <div class="rs-text-circle" data-rotate-degree="13.33">
-                                                Explore More - Explore More -
-                                            </div>
-                                        </div>
-                                    </div>
+                                <div class="banner-hook">
+                                    <p class="mb-4"><b>One stop total bearing solutions</b></p>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +38,7 @@
                 <div class="rs-banner-area rs-banner-ten rs-swiper">
                     <div class="rs-banner-slider-wrapper">
                         <div class="swiper" data-clone-slides="false" data-loop="false" data-speed="2000" data-autoplay="true" data-dots-dynamic="false" data-hover-pause="true" data-effect="fade" data-delay="1000" data-item="1" data-item-xl="1" data-item-lg="1" data-item-md="1" data-item-sm="1" data-item-xs="1" data-item-mobile="1" data-margin="30" data-margin-xl="30" data-margin-lg="30" data-margin-md="30" data-margin-sm="30" data-margin-xs="30" data-margin-mobile="30">
-                            <div class="swiper-wrapper"> 
+                            <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="rs-banner-item-wrapper">
                                         <div class="rs-banner-bg-thumb" data-background="assets/images/new-images/banner-1.jpg">
@@ -116,6 +108,17 @@
             <div class="container">
                 <div class="row align-items-xxl-center g-5">
                     <div class="col-md-5 col-12">
+                        <div class="rs-section-title-wrapper d-md-none d-block">
+                            <span class="rs-section-subtitle has-theme-yellow justify-content-start">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="15" height="28"
+                                    viewBox="0 0 15 28" fill="none">
+                                    <path d="M12.105 0.329612C12.4307 -0.0575748 13.0084 -0.112887 13.4018 0.212841C13.7889 0.538569 13.8443 1.11628 13.5185 1.50961L3.09523 13.9487L8.06105 13.3956C8.565 13.3403 9.0198 13.7029 9.07511 14.2069C9.09354 14.3728 9.06282 14.5326 9.00136 14.6801L3.62377 26.8365C3.42096 27.3036 2.87398 27.5126 2.41304 27.3097C1.94596 27.1069 1.737 26.56 1.93982 26.099L6.67209 15.4053L1.01794 16.0383C0.778256 16.0629 0.526278 15.9953 0.329612 15.8294C-0.0575748 15.5036 -0.112887 14.9259 0.212841 14.5326L12.1111 0.335757L12.105 0.329612Z" fill="#F7C600"></path>
+                                    <path d="M11.9702 0.550616C12.173 0.0835344 12.72 -0.125423 13.1809 0.0773886C13.648 0.2802 13.857 0.827178 13.6541 1.28811L9.70238 10.2733L14.0598 10.1442C14.5637 10.1319 14.9878 10.5314 15.0001 11.0354C15.0062 11.2443 14.9386 11.4471 14.8218 11.6008L3.52584 26.9961C3.22469 27.4078 2.65313 27.4939 2.24136 27.1927C1.82959 26.8916 1.74355 26.32 2.0447 25.9083L12.2283 12.0249L8.36259 12.1416C8.20895 12.1539 8.0553 12.1355 7.9078 12.0679C7.44072 11.8651 7.23176 11.3181 7.43458 10.8571L11.9763 0.538325L11.9702 0.550616Z" fill="#F7C600"></path>
+                                </svg>
+                                About Us
+                            </span>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">We largest independent metallurgy solutions</h2>
+                        </div>
                         <div class="rs-about-thumb-wrapper">
                             <div class="rs-about-thumb about-img">
                                 <img decoding="async" src="assets/images/new-images/about-2.jpg" alt="image">
@@ -126,7 +129,7 @@
                         <div class="rs-about-wrapper">
                             <div class="rs-about-content-wrapper">
                                 <div class="rs-section-title-wrapper">
-                                    <span class="rs-section-subtitle has-theme-yellow justify-content-start">
+                                    <span class="rs-section-subtitle has-theme-yellow justify-content-start d-md-block d-none">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="15" height="28"
                                             viewBox="0 0 15 28" fill="none">
                                             <path d="M12.105 0.329612C12.4307 -0.0575748 13.0084 -0.112887 13.4018 0.212841C13.7889 0.538569 13.8443 1.11628 13.5185 1.50961L3.09523 13.9487L8.06105 13.3956C8.565 13.3403 9.0198 13.7029 9.07511 14.2069C9.09354 14.3728 9.06282 14.5326 9.00136 14.6801L3.62377 26.8365C3.42096 27.3036 2.87398 27.5126 2.41304 27.3097C1.94596 27.1069 1.737 26.56 1.93982 26.099L6.67209 15.4053L1.01794 16.0383C0.778256 16.0629 0.526278 15.9953 0.329612 15.8294C-0.0575748 15.5036 -0.112887 14.9259 0.212841 14.5326L12.1111 0.335757L12.105 0.329612Z" fill="#F7C600"></path>
@@ -134,7 +137,7 @@
                                         </svg>
                                         About Us
                                     </span>
-                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade">We largest independent metallurgy solutions</h2>
+                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade d-md-block d-none">We largest independent metallurgy solutions</h2>
                                     <p class="descrip text-justify">We solve worldwide industrial every problem, the heart of global landscape the industry stands multidimensional electronic typesetting. We solve worldwide industrial every problem, the heart of global landscape the industry stands multidimensional electronic typesetting. We solve worldwide industrial every problem, the heart of global landscape the industry stands multidimensional electronic typesetting. We solve worldwide industrial every problem, the heart of global landscape the industry stands multidimensional electronic typesetting.</p>
                                     <div class="rs-pricing-btn">
                                         <a class="rs-btn has-theme-light-green has-icon has-bg" href="about.php">Read more
@@ -236,10 +239,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
-                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="1500"
-                            data-autoplay="false" data-dots-dynamic="false" data-center-mode="false"
-                            data-hover-pause="true" data-effect="false" data-delay="1500" data-item="6" data-item-xl="5"
-                            data-item-lg="4" data-item-md="3" data-item-sm="2" data-item-xs="2" data-item-mobile="1">
+                        <div class="swiper" data-clone-slides="false" data-loop="true" data-speed="1500" data-autoplay="false" data-dots-dynamic="false" data-center-mode="false" data-hover-pause="true" data-effect="false" data-delay="1500" data-item="6" data-item-xl="5" data-item-lg="4" data-item-md="3" data-item-sm="2" data-item-xs="2" data-item-mobile="2">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="rs-brand-item">
@@ -1027,6 +1027,46 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-5 col-lg-6">
+                        <div class="rs-contact-form rs-contact-one has-theme-green wow fadeInRight" data-wow-delay=".3s"
+                            data-wow-duration="1s">
+                            <div class="rs-contact-thumb">
+                                <img src="assets/images/bg/contact-bg-05.png" alt="">
+                            </div>
+                            <h3 class="rs-contact-form-title mb-10">Ask Us a Question…</h3>
+                            <p class="descrip">The point of using Lorem Ipsum is that it has more-or-less normal</p>
+                            <form id="contact-form" action="assets/mailer.php" method="POST">
+                                <div class="row g-4">
+                                    <div class="col-md-12">
+                                        <div class="rs-contact-input">
+                                            <input id="name" name="name" type="text" required placeholder="Full Name">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="rs-contact-input">
+                                            <input id="email" name="email" type="email" required placeholder="Email Address">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="rs-contact-input">
+                                            <input id="info" name="name" type="text" required placeholder="Your Inquiry">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="rs-contact-input">
+                                            <textarea id="message" name="message"
+                                                placeholder="Write Your Message"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="rs-contact-btn">
+                                            <button type="submit" class="rs-btn has-theme-yellow">Send Message</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>

@@ -9,16 +9,13 @@
                                 <h6><a href="mailto:globalbearingsche@gmail.com ">globalbearingsche@gmail.com </a></h6>
                             </div>
                         </div>
+                    </div>
+                    <div class="rs-header-info-item">
                         <div class="rs-header-info-item">
                             <div class="rs-header-contact-item">
                                 <span>Call.</span>
                                 <h6><a href="tel:+91 98434 44040">+91 98434 44040</a></h6>
                             </div>
-                        </div>
-                    </div>
-                    <div class="rs-header-info-item">
-                        <div class="rs-header-contact-item">
-                            <h6> One stop total bearing solutions</h6>
                         </div>
                     </div>
                 </div>
@@ -29,7 +26,7 @@
                     <div class="rs-header-left">
                         <div class="rs-header-logo-wrapper">
                             <div class="rs-header-logo">
-                                <a href="index.php"><img src="assets/images/new-images/logo.png" alt="logo"></a>
+                                <a href="index.php"><img src="assets/images/new-images/logo.jpg" alt="logo"></a>
                             </div>
                         </div>
                     </div>
@@ -53,46 +50,11 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li class="has-mega-menu menu-item-has-children">
-                                    <a href="javascript:void(0)">Brands</a>
-                                    <ul class="mega-menu mega-grid brands">
-                                        <li>
-                                            <a href="#" class="title">Bearings</a>
-                                            <ul>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/1.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/2.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/3.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/4.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/5.jpeg" /></a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="title">Linear Motion Products</a>
-                                            <ul>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/6.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/7.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/8.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/9.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/10.jpeg" /></a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="title">Bearing Support Units</a>
-                                            <ul>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/11.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/12.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/13.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/14.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/15.jpeg" /></a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
                                 <li class="">
                                     <a href="services.php">Services</a>
                                 </li>
                                 <li class="">
-                                    <a href="clientele.php">Clientele</a>
+                                    <a href="clientele.php">Brands</a>
                                 </li>
                                 <li class="">
                                     <a href="gallery.php">Gallery</a>
@@ -147,16 +109,13 @@
                                 <h6><a href="mailto:globalbearingsche@gmail.com ">globalbearingsche@gmail.com </a></h6>
                             </div>
                         </div>
+                    </div>
+                    <div class="rs-header-info-item">
                         <div class="rs-header-info-item">
                             <div class="rs-header-contact-item">
                                 <span>Call.</span>
                                 <h6><a href="tel:+91 98434 44040">+91 98434 44040</a></h6>
                             </div>
-                        </div>
-                    </div>
-                    <div class="rs-header-info-item">
-                        <div class="rs-header-contact-item">
-                            <h6> One stop total bearing solutions</h6>
                         </div>
                     </div>
                 </div>
@@ -166,7 +125,7 @@
                     <div class="rs-header-left">
                         <div class="rs-header-logo-wrapper">
                             <div class="rs-header-logo">
-                                <a href="index.php"><img src="assets/images/new-images/logo.png" alt="logo"></a>
+                                <a href="index.php"><img src="assets/images/new-images/logo.jpg" alt="logo"></a>
                             </div>
                         </div>
                     </div>
@@ -190,46 +149,11 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li class="has-mega-menu menu-item-has-children">
-                                    <a href="javascript:void(0)">Brands</a>
-                                    <ul class="mega-menu mega-grid brands">
-                                        <li>
-                                            <a href="#" class="title">Bearings</a>
-                                            <ul>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/1.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/2.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/3.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/4.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/5.jpeg" /></a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="title">Linear Motion Products</a>
-                                            <ul>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/6.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/7.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/8.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/9.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/10.jpeg" /></a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="title">Bearing Support Units</a>
-                                            <ul>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/11.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/12.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/13.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/14.jpeg" /></a></li>
-                                                <li><a href="javascript:void(0)"><img src="assets/images/new-images/brands/15.jpeg" /></a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
                                 <li class="">
                                     <a href="services.php">Services</a>
                                 </li>
                                 <li class="">
-                                    <a href="clientele.php">Clientele</a>
+                                    <a href="clientele.php">Brands</a>
                                 </li>
                                 <li class="">
                                     <a href="gallery.php">Gallery</a>
@@ -240,7 +164,7 @@
                             </ul>
                         </nav>
                     </div>
-                    <div class="rs-header-right"> 
+                    <div class="rs-header-right">
                         <div class="rs-header-hamburger has-theme-light-green">
                             <div class="sidebar-toggle">
                                 <a class="bar-icon" href="javascript:void(0)">

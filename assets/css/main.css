@@ -3189,8 +3189,8 @@ textarea:focus {
 }
 @media only screen and (max-width: 767px) {
   .rs-breadcrumb-one {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 180px;
+    padding-bottom: 69px;
   }
 }
 .rs-breadcrumb-one .rs-breadcrumb-bg.bg-black {
@@ -8749,7 +8749,7 @@ html.lenis body {
 .rs-banner-seven .rs-banner-bottom-thumb {
   position: relative;
   height: 700px;
-  margin-top: -75px;
+  /* margin-top: -75px; */
 }
 @media only screen and (max-width: 1600px) {
   .rs-banner-seven .rs-banner-bottom-thumb {
@@ -19635,9 +19635,11 @@ html.lenis body {
   visibility: visible;
 }
 .rs-services-seven .rs-services-item:hover::before {
-  width: 100%;
-  visibility: visible;
-  opacity: 1;
+    width: 97%;
+    visibility: visible;
+    opacity: 1;
+    left: 50%;
+    transform: translateX(-50%);
 }
 .rs-services-seven .rs-services-item:hover .rs-services-title {
   color: var(--rs-theme-yellow);
@@ -28574,6 +28576,9 @@ a.ui-button:active {
     .services-slider .swiper-button-next {
         right: 5px;
     }
+    .rs-portfolio-four .rs-portfolio-navigation{
+      justify-content: end;
+    }
 }
 .py-60{
   padding: 60px 0;
@@ -28600,7 +28605,6 @@ header .brands ul li img{
   height: 70px;
 }
 
-
 @media only screen and (max-width: 575px) {
   .rs-header-logo img{
     width: 250px;
@@ -28610,8 +28614,10 @@ header .brands ul li img{
   .o-xs {
     overflow-x: hidden;
   }
- 
-}
+  .rs-banner-seven .rs-banner-wrapper{
+    padding: 193px 0 0px;
+  }
+}gg
 @media screen and (max-width: 992px) {
   .rs-header-menu {
     display: none !important;
@@ -28674,4 +28680,7 @@ header .brands ul li img{
 }
 .rs-portfolio-title a{
   font-size: 22px;
+}
+.banner-hook p{
+  /* color: blac; */
 }
